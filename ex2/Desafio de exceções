@@ -4,7 +4,6 @@ Construir um programa para cadastro de alunos contendo:
 Nome:
 Idade:
 Nota:
-Regras:
 
 nome não pode ser vazio;
 idade deve ser um número inteiro;
