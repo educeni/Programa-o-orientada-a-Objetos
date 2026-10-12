@@ -1,0 +1,14 @@
+Desafio:
+Construir um programa para cadastro de alunos contendo:
+
+Nome:
+Idade:
+Nota:
+Regras:
+
+nome não pode ser vazio;
+idade deve ser um número inteiro;
+idade não pode ser negativa;
+nota deve ser numérica;
+nota deve estar entre 0 e 10.
+O programa deverá utilizar tratamento de exceções para impedir que entradas inválidas encerrem inesperadamente sua execução.
