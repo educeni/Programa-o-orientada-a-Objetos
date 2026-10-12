@@ -1,0 +1,23 @@
+O programa deverá solicitar:
+
+Primeiro número:
+Segundo número:
+Operação:
+Operações:
+
++
+-
+*
+/
+O programa deverá tratar pelo menos:
+
+entrada inválida;
+divisão por zero;
+operação inexistente.
+Exemplo:
+
+Primeiro número: 20
+Segundo número: 0
+Operação: /
+
+Não é possível dividir por zero.
